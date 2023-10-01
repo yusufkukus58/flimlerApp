@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1017581418075",
+    "project_id": "flimler-fe3ca",
+    "storage_bucket": "flimler-fe3ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017581418075:android:715b1c40335bd6acee717e",
+        "android_client_info": {
+          "package_name": "com.example.filmlerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJJD4APMzkzN0rtmy0yCx3hn4T9CYZqnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
